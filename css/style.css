@@ -473,7 +473,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #portfolio-work .block .portfolio-contant ul li {
   float: left;
   width: 32.22%;
-  max-height: 300px;
+  height:300px;
   overflow: hidden;
   margin: 6px;
   position: relative;
@@ -510,6 +510,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #portfolio-work .block .portfolio-contant ul img {
   width: 100%;
   max-height: 367px;
+  min-height: 300px;
 }
 #portfolio-work .block .portfolio-contant .overly {
   position: absolute;
