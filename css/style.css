@@ -14,10 +14,11 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+.name {
   font-family: 'Roboto', sans-serif;
 }
-h2 {
+h2  {
   font-size: 30px;
   font-weight: 400;
 }
@@ -33,6 +34,10 @@ ul {
   padding: 0;
   margin: 0;
   list-style: none;
+}
+.name{
+  font-size: 30px;
+  font-weight: 400;
 }
 a,
 a:active,
@@ -248,6 +253,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 28px;
   font-weight: 600;
   margin-bottom: 30px;
+  color: #8d8f92;
 }
 #feature p {
   color: #8d8f92;
@@ -804,6 +810,10 @@ footer .footer-manu ul li a {
 }
 footer .footer-manu ul li a:hover {
   color: #000;
+}
+#drew{
+  border-radius: 50%;
+  opacity: 0.5;
 }
 
 
