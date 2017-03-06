@@ -488,11 +488,12 @@ font header .navbar-default .navbar-nav li a:hover {
   -moz-transform: translate(0%, -50%);
   -ms-transform: translate(0%, -50%);
   transform: translate(0%, -50%);
-  padding-right: 15%;
+ 
 }
 #portfolio-work .block .portfolio-contant ul li a {
   display: block;
   color: #fff;
+
 }
 #portfolio-work .block .portfolio-contant ul li a h2 {
   font-size: 22px;
@@ -524,9 +525,10 @@ font header .navbar-default .navbar-nav li a:hover {
   -o-transition: .3s all;
   transition: .3s all;
   text-align: center;
+
 }
 #portfolio-work .block .portfolio-contant .position-center {
-  position: absolute;
+  position: center;
   top: 50%;
   left: 15%;
   -webkit-transform: translate(0%, 50%);
@@ -582,6 +584,7 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 75px;
   height: 3px;
   background: #fff;
+  
 }
 #wrapper-work ul li .items-text p {
   padding-top: 30px;
